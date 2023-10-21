@@ -10,15 +10,15 @@
 
 ### Website Preview
 #### Home Page
-<img src="website_images/HomePage.gif" width="900">
+<img src="[website_images/HomePage.gif](https://github.com/Poscom2010/poscom2010.github.io/blob/master/website_images/aboutcharmu.png)" width="900">
 
 
 #### About Page
-<img src="website_images/AboutPage.png" width="900">
+<img src="[website_images/AboutPage.png](https://github.com/Poscom2010/poscom2010.github.io/blob/master/website_images/Homecharmu.png)" width="900">
 
 
 #### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
+<img src="websit" width="900">
   
 
 
